@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **syedali172000@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Ryzen and Intel dosent matter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
