@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **syedali172000@gmail.com**
 
-- ⚡ Fun fact **Ryzen and Intel dosent matter**
+- ⚡ Fun fact **Coffee is not addicted thing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
