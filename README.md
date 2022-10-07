@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **Data Structure and Algorithm**
 
+- 🔭 I’m am intrested in Android Development and web development **
+
 - 🌱 I’m currently learning **DSA , Will learn Full Stack WD**
 
 - 📫 How to reach me **syedali172000@gmail.com**
