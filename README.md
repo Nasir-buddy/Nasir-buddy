@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasir-buddy&show_icons=true&locale=en" alt="nasir-buddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-buddy&" alt="nasir-buddy" /></p>
+
+## Support
+For support, email syedali172000@gmail.com
