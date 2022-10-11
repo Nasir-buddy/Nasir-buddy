@@ -31,6 +31,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-buddy&" alt="nasir-buddy" /></p>
 
+![Nasir Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasir-buddy&theme=vue)
+
 ## Support
 For support, email syedali172000@gmail.com
 
@@ -38,3 +40,4 @@ For support, email syedali172000@gmail.com
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 </h1>
+
