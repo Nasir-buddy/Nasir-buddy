@@ -33,3 +33,8 @@
 
 ## Support
 For support, email syedali172000@gmail.com
+
+<h1 align="center"><img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p>
+
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+</h1>
