@@ -34,7 +34,7 @@
 ![Nasir Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasir-buddy&theme=vue)
 
 ## Support
-For support, email syedali172000@gmail.com
+For support, email - syedali172000@gmail.com
 
 <h1 align="center"><img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p>
 
