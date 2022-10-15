@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasir-buddy&label=Profile%20views&color=0e75b6&style=flat" alt="nasir-buddy" /> </p>
 
-- 🔭 I’m currently working on **Data Structure and Algorithm**
+- 🔭 I’m currently working on **Data Structure and Algorithm.**
 
-- 🔭 I’m am intrested in Android Development and web development **
+- 🔭 I’m am intrested in Android Development and web development. **
 
-- 🌱 I’m currently learning **DSA , Will learn Full Stack WD**
+- 🌱 I’m currently learning **DSA , Will learn Full Stack WD.**
 
 - 📫 How to reach me **syedali172000@gmail.com**
 
