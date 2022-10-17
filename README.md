@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Coffee is not addicted thing.**
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/nasir-ali-a47283225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir ali" height="30" width="40" /></a>
