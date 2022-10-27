@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Structure and Algorithm.**
 
-- 🔭 I’m am intrested in Android Development and web development. **
+- 🔭 I’m am intrested in Android Development and web development & also in DSA . **
 
 - 🌱 I’m currently learning **DSA , Will learn Full Stack WD.**
 
