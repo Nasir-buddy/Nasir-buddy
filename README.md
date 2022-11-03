@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **syedali172000@gmail.com**
 
-- ⚡ Fun fact **Coffee is not addicted thing.**
+- ⚡ Fun fact **Coffee is not addicted thing .**
 
 <h1 align="left">Hacktoberfest 2K22:</h1>
 
