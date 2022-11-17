@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Nasir-buddy/Nasir-buddy/blob/README.MD/Welcome%20to%20my%20GitHub.gif)
+No![MasterHead](https://github.com/Nasir-buddy/Nasir-buddy/blob/README.MD/Welcome%20to%20my%20GitHub.gif)
 <h1 align="center">Hi 👋, I'm Nasir Ali</h1>
 <h3 align="center">I am B.tech CSE student currently in 2nd year learning Data Structure and Algorithm.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Coffee is not addicted thing .**
 
-<h1 align="left">Hacktoberfest 2K22:</h1>
+<h1 align="left">Hacktoberfest 2022:</h1>
 
 [![@nasir_ali's Holopin board](https://holopin.me/nasir_ali)](https://holopin.io/@nasir_ali)
 
