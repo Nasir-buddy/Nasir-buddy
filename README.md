@@ -11,11 +11,11 @@ No![MasterHead](https://github.com/Nasir-buddy/Nasir-buddy/blob/README.MD/Welcom
 
 - 🌱 I’m currently learning **DSA,Will learn Full Stack WD **
 
-- 📫 How to reach me ** syedali172000@gmail.com**
+- 📫 How to reach me **syedali172000@gmail.com**
 
 - ⚡ Fun fact **Coffee is not addicted thing .**
 
-<h1 align="left">Hacktoberfest 2K22 :</h1>
+<h1 align="left">Hacktoberfest 2K22:</h1>
 
 [![@nasir_ali's Holopin board](https://holopin.me/nasir_ali)](https://holopin.io/@nasir_ali)
 
