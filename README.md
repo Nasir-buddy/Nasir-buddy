@@ -9,7 +9,7 @@ No![MasterHead](https://github.com/Nasir-buddy/Nasir-buddy/blob/README.MD/Welcom
 
 - 🔭 I’m am intrested in Android Development and web development. **
 
-- 🌱 I’m currently learning **DSA, Will learn Full stack WD and dsa **
+- 🌱 I’m currently learning **DSA, Will learn Full stack WD and dsa**
 
 - 📫 How to reach me ** syedali172000@gmail.com**
 
