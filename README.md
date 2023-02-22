@@ -5,7 +5,7 @@ No![MasterHead](https://github.com/Nasir-buddy/Nasir-buddy/blob/README.MD/Welcom
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasir-buddy&label=Profile%20views&color=0e75b6&style=flat" alt="nasir-buddy" /> </p>
 
-- 🔭 I’m **Data Structure and Algorithm Teaching Assistant @Coding Ninjas .**
+- 🔭 I’m **Data Structure and Algorithm   Teaching Assistant @Coding Ninjas .**
 
 - 🔭 I’m am intrested in Android Development and web development. **
 
