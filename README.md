@@ -7,7 +7,7 @@ No![MasterHead](https://github.com/Nasir-buddy/Nasir-buddy/blob/README.MD/Welcom
 
 - 🔭 I’m **Data Structure and Algorithm Teaching Assistant @Coding Ninjas .**
 
-- 🔭 I’m am intrested in Android Development and web development . **
+- 🔭 I’m am intrested in Android Development and web development. **
 
 - 🌱 I’m currently learning **DSA, Will learn Full stack WD and dsa**
 
