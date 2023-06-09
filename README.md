@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasir-buddy&label=Profile%20views&color=0e75b6&style=flat" alt="nasir-buddy" /> </p>
 
-- 🔭 I’m **EX Data Structure and Algorithm Teaching Assistant @Coding Ninjas .**
+- 🔭 I’m **EX Data Structure and Algorithm Teaching Assistant @Coding Ninjas.**
 
-- 🔭 I’m am intrested in Android Development and web development. **
+- 🔭 I’m am intrested in Android Development and web development.**
 
-- 🌱 I’m currently learning **DSA, Learning Full stack Web Development . **
+- 🌱 I’m currently learning **DSA, Learning Full stack Web Development.**
 
-- 📫 How to reach me **syedali172000@gmail.com **
+- 📫 How to reach me **syedali172000@gmail.com**
 
 - ⚡ Fun fact **Coffee is not addicted thing.**
 
