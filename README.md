@@ -9,7 +9,7 @@
 
 - 🔭 I’m am intrested in Android Development and web development.**
 
-- 🌱 I’m currently learning **Practicing DSA questions, Learning Full stack Web Development .**
+- 🌱 I’m currently learning **Practicing DSA questions, Learning MERN stack Web Development .**
 
 - 📫 How to reach me **syedali172000@gmail.com**
 
