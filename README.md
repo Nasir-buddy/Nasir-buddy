@@ -7,7 +7,7 @@
 
 - 🔭 I’m **EX Data Structure and Algorithm Teaching Assistant @Coding Ninjas.**
 
-- 🔭 I’m am intrested in Android Development and web development.**
+- 🔭 I’m am intrested in Android Development and web development .**
 
 - 🌱 I’m currently learning **Practicing DSA questions, Learning MERN stack Web Development .**
 
