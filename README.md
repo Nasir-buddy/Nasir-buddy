@@ -15,11 +15,11 @@
 
 - ⚡ Fun fact **Coffee is not addicted thing.**
 
-<h1 align="left">Hacktoberfest 2K22 : </h1>
+<h1 align="left">Hacktoberfest 2K22: </h1>
 
 [![@nasir_ali's Holopin board](https://holopin.me/nasir_ali)](https://holopin.io/@nasir_ali)
 
-<h3 align="left"> Connect with me with these tools and software: </h3>
+<h3 align="left"> Connect with me with these tools and application: </h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/nasir-ali-a47283225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir ali" height="30" width="40" /></a>
