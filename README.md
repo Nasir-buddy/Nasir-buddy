@@ -19,7 +19,7 @@
 
 [![@nasir_ali's Holopin board](https://holopin.me/nasir_ali)](https://holopin.io/@nasir_ali)
 
-<h3 align="left"> Connect with me with these tools and application: </h3>
+<h3 align="left"> Connect with me with these tools and application : </h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/nasir-ali-a47283225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir ali" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 ![Nasir Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasir-buddy&theme=vue)
 
 ## Support
-For support, Email - |syedali172000@gmail.com|
+For support, Email - | syedali172000@gmail.com |
 
 <h1 align="center"><img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p>
 
