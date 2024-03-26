@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Practicing DSA questions, Learning MERN stack Web Development .**
 
-- 📫 How to reach me **syedali172000@gmail.com**
+- 📫 How to reach me <a href="https://portfolio-v1-1-iota.vercel.app/" target="_blank" rel="noreferrer">
 
 - ⚡ Fun fact **Coffee is not addicted thing.**
 
