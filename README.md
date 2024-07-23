@@ -19,6 +19,11 @@
 
 [![@nasir_ali's Holopin board](https://holopin.me/nasir_ali)](https://holopin.io/@nasir_ali)
 
+<p align="center">
+ <img width="1000" src="./assest/github-snake.svg" alt="snake"/>
+</p>
+
+
 <h3 align="left"> Connect with me with these tools and application: </h3>
 <p align="left">
 
@@ -44,6 +49,3 @@ For support, Email - | syedali172000@gmail.com |
 </h1>
 
 
-<p align="center">
- <img width="1000" src="asset/github-snake.svg" alt="snake"/>
-</p>
