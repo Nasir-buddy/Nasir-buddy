@@ -43,3 +43,7 @@ For support, Email - | syedali172000@gmail.com |
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 </h1>
 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
