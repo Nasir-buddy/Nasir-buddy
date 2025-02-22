@@ -1,21 +1,44 @@
 ![MasterHead](https://github.com/Nasir-buddy/Nasir-buddy/blob/README.MD/Welcome%20To%20My%20Github%20profile.gif)
-<h1 align="center">Hello 👋, I am Nasir Ali </h1>
+<h1 align="center">Hello 👋, I am Nasir Ali</h1>
 <h3 align="center">I am B.tech CSE student currently in 4th year. <span>Loving React.js💙</span>.& Love Frustration with DSA.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<!-- <div align="center">
+  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+</div> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasir-buddy&label=Profile%20views&color=0e75b6&style=flat" alt="nasir-buddy" /> </p>
+<p align=""> 
+  <img src="https://komarev.com/ghpvc/?username=nasir-buddy&label=Profile%20views&color=0e75b6&style=flat" alt="nasir-buddy" />
+</p>
 
+```javascript
+const skills = [
+  "Java",
+  "JavaScript",
+  "React.js",
+  "Node.js",
+  "Tailwind CSS",
+  "MongoDB",
+  "Next.js",
+  "TypeScript"
+];
+
+console.log(`
 - 🔭 I’m **EX Data Structure and Algorithm Ex Teaching Assistant @Coding Ninjas.**
 
-- 🔭 I’m am intrested in Android Development and web development.**
+- 🔭 I’m interested in Android Development and web development.**
 
 - 🌱 I’m currently learning **Practicing DSA questions, Learning MERN stack Web Development .**
 
 - 📫 How to reach me <a href="https://portfolio-v1-1-iota.vercel.app/" target="_blank" rel="noreferrer"> Portfolio. </a>
 
-- ⚡ Fun fact **Coffee is not addicted thing.**
+- ⚡ Fun fact **Coffee is not an addictive thing.**
 
-<br>
+- 💡 Skills: ${skills.join(", ")}
+`);
+```
+
+<p align="center">
+  📫 How to reach me <a href="https://portfolio-v1-1-iota.vercel.app/" target="_blank" rel="noreferrer"> Portfolio. </a>
+</p>
 
 <h1 align="center">Hacktoberfest 2K22: 🥇</h1>
 
