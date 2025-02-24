@@ -19,7 +19,8 @@ const skills = [
   "MongoDB",
   "Next.js",
   "TypeScript",
-  "GitHub"
+  "GitHub",
+  "ArchLinux"
 ];
 
 console.log(`
