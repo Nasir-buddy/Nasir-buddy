@@ -18,7 +18,8 @@ const skills = [
   "Tailwind CSS",
   "MongoDB",
   "Next.js",
-  "TypeScript"
+  "TypeScript",
+  "GitHub"
 ];
 
 console.log(`
