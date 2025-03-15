@@ -23,6 +23,7 @@ const skills = [
   "ArchLinux"
   "Express.Js"
   "SQL"
+  "GITHUB"
 ];
 
 console.log(`
