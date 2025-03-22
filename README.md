@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Nasir-buddy/Nasir-buddy/blob/README.MD/Welcome%20To%20My%20Github%20profile.gif)
 <h1 align="center">Hello 👋, I am Nasir Ali</h1>
-<h3 align="center">Intern @Debales.AI as a Full Stack Developer working with latest technology NEXT.js, I am B.tech CSE student currently in 4th year.<span>Loving React.js💙</span>.& Love Frustration with DSA.</h3>
+<h3 align="center">Intern @Debales.AI as a Full Stack Developer working with latest technology NEXT.js, B.tech CSE student currently in 4th year.<span>Loving React.js💙</span>.& Love Frustration with DSA.</h3>
 <!-- <div align="center">
   <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 </div> -->
