@@ -23,7 +23,7 @@ const skills = [
   "ArchLinux"
   "Express.Js"
   "SQL"
-  "GITHUB"
+  "GITHUB
 ];
 
 console.log(`
@@ -80,7 +80,7 @@ console.log(`
 
 <div align="center">
   <h2>Support</h2>
-  <p>For support, Email - <a href="mailto:syedali172000@gmail.com">syedali172000@gmail.com</a></p>
+  <p>For contact, Email - <a href="mailto:syedali172000@gmail.com">syedali172000@gmail.com</a></p>
 </div>
 
 <h1 align="center"><img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p>
