@@ -43,7 +43,7 @@ console.log(`
 ```
 
 <p align="center">
-  📫 How to reach me <a href="https://portfolio-v1-1-iota.vercel.app/" target="_blank" rel="noreferrer"> Portfolio. </a>
+  📫 How to reach me: <a href="https://portfolio-v1-1-iota.vercel.app/" target="_blank" rel="noreferrer"> Portfolio. </a>
 </p>
 
 <h1 align="center">Hacktoberfest 2K22: 🥇</h1>
