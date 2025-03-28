@@ -24,7 +24,7 @@ const skills = [
   "Express.Js"
   "SQL"
   "GITHUB"
-  "Prisma"
+  "Prisma ORM"
 ];
 
 console.log(`
