@@ -30,7 +30,7 @@ const skills = [
 console.log(`
 - 🔭 I’m **EX Data Structure and Algorithm Ex Teaching Assistant @Coding Ninjas.**
 
-- 🔭 I’m interested in React.JS, NEXT.js, JavaScript, Java.**
+- 🔭 I’m interested in React.JS, NEXT.js, JavaScript, Java, git, github, ArchLinux.**
 
 - 🌱 I’m currently learning **Practicing DSA questions, Learning MERN stack Web Development .**
 
