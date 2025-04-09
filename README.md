@@ -25,6 +25,7 @@ const skills = [
   "SQL"
   "GITHUB"
   "Prisma ORM"
+  "GCP, jenkins"
 ];
 
 console.log(`
