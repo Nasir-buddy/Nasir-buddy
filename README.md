@@ -24,6 +24,8 @@ const skills = [
   "Express.Js"
   "SQL"
   "GITHUB"
+  "GIT"
+  "postgreSQL"
 ];
 
 console.log(`
