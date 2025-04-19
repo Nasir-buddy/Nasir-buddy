@@ -25,6 +25,8 @@ const skills = [
   "SQL"
   "GITHUB"
   "GIT"
+  "HTML"
+  "CSS"
 ];
 
 console.log(`
