@@ -27,6 +27,7 @@ const skills = [
   "GIT"
   "HTML"
   "CSS"
+  "Ejs"
 ];
 
 console.log(`
