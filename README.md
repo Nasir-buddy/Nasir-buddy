@@ -26,7 +26,6 @@ const skills = [
   "GITHUB"
   "GIT"
   "HTML"
-  "CSS"
   "Ejs"
 ];
 
