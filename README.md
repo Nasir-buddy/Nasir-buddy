@@ -26,7 +26,7 @@ const skills = [
   "GITHUB"
   "GIT"
   "HTML"
-  "SupaBaseDB"
+  "SupaBase"
 ];
 
 console.log(`
