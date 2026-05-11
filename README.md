@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Nasir%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20With%20Generative%20AI&descAlignY=58&descSize=16&descColor=93c5fd" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Jr.+SDE+%40Excellence+Technology+Pvt.+Ltd.;Ex+Full+Stack+Intern+%40Debales.AI;B.Tech+CSE+%7C+4th+Year;React.js+%26+Next.js+Aficionado;DSA+%7C+Certified+Masochist+%F0%9F%98%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+with+Generative+AI;ex-SDE+%40+Excellence+Technology+Pvt.+Ltd.;Ex+Full+Stack+Intern+%40+Debales.AI;B.Tech+CSE+2025+Passout;React.js+%7C+Next.js+%7C+MERN+Stack;DSA+%7C+Ex+Teaching+Assistant+%40+Coding+Ninjas" alt="Typing SVG" />
 
 <!-- Profile views -->
 <img src="https://komarev.com/ghpvc/?username=nasir-buddy&label=Profile+Views&color=1e40af&style=for-the-badge" alt="Profile Views" />
