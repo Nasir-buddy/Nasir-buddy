@@ -24,8 +24,8 @@ const nasirAli = {
   passion     : ["React.js", "Next.js", "Building things that matter"],
   currentFocus: "MERN Stack + Sharpening DSA every day",
   funFact     : "Coffee is NOT addictive — fight me.",
-  portfolio   : "https://portfolio-v1-1-iota.vercel.app/",
-  email       : "syedali172000@gmail.com",
+  portfolio   : "https://nasirbuddy.com",
+  email       : "dev.nasirbuddy@gmail.com",
 };
 ```
 
