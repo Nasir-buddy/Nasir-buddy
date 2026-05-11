@@ -1,92 +1,164 @@
-![MasterHead](https://github.com/Nasir-buddy/Nasir-buddy/blob/README.MD/Welcome%20To%20My%20Github%20profile.gif)
-<h1 align="center">Hello 👋, I am Nasir Ali</h1>
-<h3 align="center">Jr. SDE @Excellence Technology Pvt. Ltd. Ex-Intern @Debales.AI as a Full Stack Developer working with latest technology NEXT.js, B.tech CSE student currently in 4th year.<span>Loving React.js💙</span>.& Love Frustration with DSA.</h3>
-<!-- <div align="center">
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-</div> -->
+<div align="center">
 
-<p align=""> 
-  <img src="https://komarev.com/ghpvc/?username=nasir-buddy&label=Profile%20views&color=0e75b6&style=flat" alt="nasir-buddy" />
-</p>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Nasir%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20With%20Generative%20AI&descAlignY=58&descSize=16&descColor=93c5fd" />
 
-```javascript
-const skills = [
-  "Java",
-  "JavaScript",
-  "React.js",
-  "Node.js",
-  "Tailwind CSS",
-  "MongoDB",
-  "Next.js",
-  "TypeScript",
-  "GitHub",
-  "ArchLinux"
-  "Express.Js"
-  "SQL"
-  "GITHUB"
-  "GIT"
-  "HTML"
-  "SupaBase"
-];
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Jr.+SDE+%40Excellence+Technology+Pvt.+Ltd.;Ex+Full+Stack+Intern+%40Debales.AI;B.Tech+CSE+%7C+4th+Year;React.js+%26+Next.js+Aficionado;DSA+%7C+Certified+Masochist+%F0%9F%98%84" alt="Typing SVG" />
 
-console.log(`
-- 🔭 I’m **EX Data Structure and Algorithm Ex Teaching Assistant @Coding Ninjas.**
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=nasir-buddy&label=Profile+Views&color=1e40af&style=for-the-badge" alt="Profile Views" />
 
-- 🔭 I’m interested in React.JS, NEXT.js, JavaScript, Java, git, github, ArchLinux.**
+</div>
 
-- 🌱 I’m currently learning **Practicing DSA questions, Learning MERN stack Web Development .**
+---
 
-- 📫 How to reach me <a href="https://portfolio-v1-1-iota.vercel.app/" target="_blank" rel="noreferrer"> Portfolio. </a>
+## About Me
 
-- ⚡ Fun fact **Coffee is not an addictive thing.**
-
-- 💡 Skills: ${skills.join(", ")}
-`);
+```ts
+const nasirAli = {
+  role        : "Full Stack Developer with Generative AI @IdentifyPlus Delivery Service Pvt. Ltd.",
+  prev        : "Full Stack Intern @ Debales.AI",
+  education   : "B.Tech CSE 2025 Passout",
+  ta          : "Ex Teaching Assistant (DSA) @ Coding Ninjas",
+  passion     : ["React.js", "Next.js", "Building things that matter"],
+  currentFocus: "MERN Stack + Sharpening DSA every day",
+  funFact     : "Coffee is NOT addictive — fight me.",
+  portfolio   : "https://portfolio-v1-1-iota.vercel.app/",
+  email       : "syedali172000@gmail.com",
+};
 ```
 
-<p align="center">
-  📫 How to reach me: <a href="https://portfolio-v1-1-iota.vercel.app/" target="_blank" rel="noreferrer"> Portfolio. </a>
+---
+
+## Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h1 align="center">Hacktoberfest 2K22: 🥇</h1>
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+### Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nasir-buddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=3b82f6&icon_color=60a5fa&text_color=e2e8f0&bg_color=0f172a" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-buddy&theme=tokyonight&hide_border=true&stroke=3b82f6&ring=3b82f6&fire=f97316&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=94a3b8&background=0f172a" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-buddy&layout=compact&theme=tokyonight&hide_border=true&title_color=3b82f6&text_color=e2e8f0&bg_color=0f172a&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasir-buddy&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasir-buddy&bg_color=0f172a&color=60a5fa&line=3b82f6&point=f97316&area=true&hide_border=true" />
+</div>
+
+---
+
+## GitHub Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nasir-buddy/Nasir-buddy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Achievement | Details |
+|---|---|
+| Hacktoberfest 2022 | Gold Contributor |
+| Teaching Assistant | DSA @ Coding Ninjas |
+| Full Stack Intern | Debales.AI |
 
 [![@nasir_ali's Holopin board](https://holopin.me/nasir_ali)](https://holopin.io/@nasir_ali)
 
-<p align="center" >
- <h3 align="center">Play game with me :) ▶️</h3>
- <img width="1000" src="./assest/github-snake.svg" alt="snake"/>
-</p>
-
-<h3 align="center">Languages and Tools they i use: 💛</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-
-<h3 align="center">Connect with me: </h3>
-<div align="center"> 
-<a href="https://linkedin.com/in/nasir-ali-a47283225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir ali" height="30" width="40" /></a>
-<a href="https://instagram.com/nasir_ali.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasir_ali.exe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Nasir-buddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasir ali" height="30" width="40" /></a>
 </div>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-buddy&" alt="nasir-buddy" /></p>
 
-<br>
+---
+
+## Connect With Me
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasir-buddy&theme=vue" alt="Nasir Github Summary">
+
+<a href="https://linkedin.com/in/nasir-ali-a47283225" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://instagram.com/nasir_ali.exe" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.leetcode.com/Nasir-buddy" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://portfolio-v1-1-iota.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:syedali172000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-<br>
+---
 
 <div align="center">
-  <h2>Support</h2>
-  <p>For contact me Mail on: - <a href="mailto:syedali172000@gmail.com">syedali172000@gmail.com</a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=100&section=footer" />
+
+**Made with love in India** 🇮🇳
+
 </div>
-
-<h1 align="center"><img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p>
-
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-</h1>
-
-
